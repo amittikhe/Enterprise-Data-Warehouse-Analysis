@@ -1,7 +1,4 @@
 # Enterprise-Data-Warehouse-Analysis
-
-# Health-and-Insurance-Data-Analysis
-
 1) Create RDS PostgreSQL v12.10-R1
 Connect it using workbench
 jdbc:postgresql://your_url.rds.amazonaws.com:5432/EDWA1
